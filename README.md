@@ -1,0 +1,10 @@
+- Hi my name is Piotr Golacki
+- I'm interested in scientific and engineering software development and embedded systems.
+- I'm polishing my modern C++ skills
+- I'm lloking for new opportunities in the area of software engineering
+- It is best to reach me through my linkedin https://www.linkedin.com/in/piotr-go%C5%82acki-35239455/
+
+<!---
+piterx/piterx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
