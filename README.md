@@ -1,4 +1,4 @@
-- Hi my name is Piotr Golacki
+Hi my name is Piotr Golacki
 - I'm interested in scientific and engineering software development and embedded systems.
 - I develop in C, C++ and C#
 - I have used MATLAB extensively in my data analysis and signal processing projects in my professional work, but I'm moving to Python and using NumPy, SciPy and Matplotlib libraries
