@@ -5,6 +5,7 @@ Hi my name is Piotr Golacki
 - I'm polishing my modern C++ skills
 - I'm looking for new opportunities in the area of software engineering
 - It is best to reach me through my linkedin https://www.linkedin.com/in/piotr-go%C5%82acki-35239455/
+- I'm going to publish some articles on my personal website: https://www.aptechlabs.com
 
 <!---
 piterx/piterx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
